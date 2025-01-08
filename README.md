@@ -1,5 +1,5 @@
 <a target="_blank" align="center">
-  <img alt="GIF" height="200" width="100%"  src="https://media4.giphy.com/media/YtCAXWS94FZbWiKmKH/200w.gif?cid=6c09b952nduhlxtbco0xdyd24yxobr5ztyearx19nc43lh7k&ep=v1_gifs_search&rid=200w.gif&ct=g">
+  <img alt="GIF" height="300" width="100%"  src="https://media4.giphy.com/media/YtCAXWS94FZbWiKmKH/200w.gif?cid=6c09b952nduhlxtbco0xdyd24yxobr5ztyearx19nc43lh7k&ep=v1_gifs_search&rid=200w.gif&ct=g">
 </a>
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">
