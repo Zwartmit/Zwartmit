@@ -11,7 +11,7 @@ Currently, I am 23 years old. I'm passionate about technology and programming, m
 
 Among other things... I'm also passionate about:
 <br/>
-🎚️DJing ㅤ🤖3D modeling ㅤ🎨Graphic design ㅤ🗺️Travel ㅤ📖Read
+🎚️DJingㅤ🤖3D modelingㅤ🎨Graphic designㅤ🗺️Travelㅤ📖Read
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)
