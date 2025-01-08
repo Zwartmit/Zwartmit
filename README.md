@@ -1,11 +1,11 @@
-<a target="_blank" align="center">
-  <img alt="GIF" align="right" src="https://media4.giphy.com/media/YtCAXWS94FZbWiKmKH/200w.gif?cid=6c09b952nduhlxtbco0xdyd24yxobr5ztyearx19nc43lh7k&ep=v1_gifs_search&rid=200w.gif&ct=g">
-</a>
-
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">
+Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">
 <br/>
 My name is Brandon Urbano, I'm Junior Developer
 ==================================================================================================================================
+
+<a target="_blank" align="center">
+  <img alt="GIF" align="right" src="https://media4.giphy.com/media/YtCAXWS94FZbWiKmKH/200w.gif?cid=6c09b952nduhlxtbco0xdyd24yxobr5ztyearx19nc43lh7k&ep=v1_gifs_search&rid=200w.gif&ct=g">
+</a>
 
 Currently, I am 23 years old. I'm passionate about technology and programming, my focus is to develop innovative solutions that adapt to the needs of each project. As a developer, I specialize in creating modern and efficient multiplatform applications.
 
