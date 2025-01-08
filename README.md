@@ -2,7 +2,10 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 <br/>
 My name is Brandon Urbano, I'm Junior Developer
 ==================================================================================================================================
-
+<video autoplay loop muted playsinline width="100%">
+  <source src="https://cdn.vecteezy.com/system/resources/previews/021/520/113/original/abstract-falling-particle-animation-background.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 Currently, I am 23 years old. I'm passionate about technology and programming, my focus is to develop innovative solutions that adapt to the needs of each project. As a developer, I specialize in creating modern and efficient multiplatform applications.
 
 Among other things... I'm also passionate about:
