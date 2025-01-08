@@ -4,7 +4,7 @@ My name is Brandon Urbano, I'm Junior Developer
 ==================================================================================================================================
 
 <a target="_blank" align="center">
-  <img alt="GIF" align="right" src="https://media2.giphy.com/media/e1CoBCiWvIB2w/200w.gif?cid=82a1493bjlid2bhbxiirx27qf5znrf5y04gfraw52g0ayvce&ep=v1_gifs_related&rid=200w.gif&ct=g">
+  <img alt="GIF" align="right" src="https://media2.giphy.com/media/WoD6JZnwap6s8/200.gif?cid=6c09b952yezhos2la8yxw1u9wm69g78vrf3rfiin422l0mfh&ep=v1_gifs_search&rid=200.gif&ct=g">
 </a>
 
 Currently, I am 23 years old. I'm passionate about technology and programming, my focus is to develop innovative solutions that adapt to the needs of each project. As a developer, I specialize in creating modern and efficient multiplatform applications.
