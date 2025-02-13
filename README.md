@@ -50,7 +50,7 @@ Among other things... I'm also passionate about:
   <a href="https://linkedin.com/in/brandonurbano-dev" target="_blank">  
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />  
   </a>  
-  <a href="https://devmit.netlify.app" target="_blank">  
+  <a href="https://dev-mit.com" target="_blank">  
     <img src="https://skillicons.dev/icons?i=htmx" alt="portafolio" />  
   </a>  
   <a href="https://instagram.com/zwart_mit" target="_blank">  
