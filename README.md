@@ -2,14 +2,14 @@
 <br/>  
 Mi nombre es Brandon Urbano, soy Desarrollador Junior.  
 <a target="_blank" align="center">  
-  <img alt="GIF" height="250" width="250" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
+  <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
 
 Actualmente, tengo 23 años. Me apasiona la tecnología y la programación, y mi enfoque es desarrollar soluciones innovadoras que se adapten a las necesidades de cada proyecto. Como desarrollador, me especializo en la creación de aplicaciones multiplataforma modernas y eficientes.  
 
 Entre otras cosas... también me apasiona:  
 <br/>  
-🎧DJingㅤ🤖Modelado 3Dㅤ🎨Diseño gráficoㅤ🗌Viajarㅤ📚Leer  
+🎧DJingㅤ🤖Modelado 3Dㅤ🎨Diseño gráficoㅤ🗄Viajarㅤ📚Leer  
 
 * 🌍  Vivo en Colombia  
 * ✉️  Puedes contactarme en [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
@@ -20,16 +20,16 @@ Entre otras cosas... también me apasiona:
 
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">  
 <br/>  
-My name is Brandon Urbano, I'm Junior Developer.
+My name is Brandon Urbano, I'm Junior Developer.  
 <a target="_blank" align="center">  
-  <img alt="GIF" height="250" width="250" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
+  <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
 
 Currently, I am 23 years old. I'm passionate about technology and programming, my focus is to develop innovative solutions that adapt to the needs of each project. As a developer, I specialize in creating modern and efficient multiplatform applications.  
 
 Among other things... I'm also passionate about:  
 <br/>  
-🎧DJingㅤ🤖3D modelingㅤ🎨Graphic designㅤ🗌Travelㅤ📚Read  
+🎧DJingㅤ🤖3D modelingㅤ🎨Graphic designㅤ🗄Travelㅤ📚Read  
 
 * 🌍  I'm based in Colombia  
 * ✉️  You can contact me at [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
@@ -66,3 +66,4 @@ Among other things... I'm also passionate about:
 <a href="http://www.github.com/zwartmit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zwartmit&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>  
 
 <a href="https://github.com/zwartmit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwartmit&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Lenguajes más usados" /></a>  
+</div>
