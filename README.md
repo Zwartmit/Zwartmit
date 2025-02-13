@@ -1,8 +1,6 @@
 ## ¡Hola! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif Animado">  
 <br/>  
 Mi nombre es Brandon Urbano, soy Desarrollador Junior.  
-==================================================================================================================================  
-
 <a target="_blank" align="center">  
   <img alt="GIF" height="250" width="250" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
@@ -22,9 +20,7 @@ Entre otras cosas... también me apasiona:
 
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">  
 <br/>  
-My name is Brandon Urbano, I'm Junior Developer.  
-==================================================================================================================================  
-
+My name is Brandon Urbano, I'm Junior Developer.
 <a target="_blank" align="center">  
   <img alt="GIF" height="250" width="250" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
