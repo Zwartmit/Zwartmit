@@ -5,7 +5,7 @@ Mi nombre es Brandon Urbano, soy Desarrollador Junior.
   <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
 
-Actualmente, tengo 23 años. Me apasiona la tecnología y la programación, y mi enfoque es desarrollar soluciones innovadoras que se adapten a las necesidades de cada proyecto. Como desarrollador, me especializo en la creación de aplicaciones multiplataforma modernas y eficientes.  
+Actualmente tengo 23 años. Me apasiona la tecnología y la programación, mi enfoque es desarrollar soluciones innovadoras que se adapten a las necesidades de cada proyecto. Como desarrollador, me especializo en la creación de aplicaciones multiplataforma modernas y eficientes.  
 
 Entre otras cosas... también me apasiona:  
 <br/>  
