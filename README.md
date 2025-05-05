@@ -13,8 +13,7 @@ Entre otras cosas... también me apasiona:
 
 * 🌍  Vivo en Colombia  
 * ✉️  Puedes contactarme en [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
-* 🧠  Estoy en constante aprendizaje  
-* 🤝  Estoy abierto a colaborar en proyectos de código abierto  
+* 🧠  Estoy en constante aprendizaje 
 
 -----------------
 
@@ -33,8 +32,7 @@ Among other things... I'm also passionate about:
 
 * 🌍  I'm based in Colombia  
 * ✉️  You can contact me at [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
-* 🧠  I'm in continuous learning  
-* 🤝  I'm open to collaborating on open source projects  
+* 🧠  I'm in continuous learning 
 
 -----------------
 
