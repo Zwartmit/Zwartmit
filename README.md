@@ -61,5 +61,4 @@ Among other things... I'm also passionate about:
 
 <a href="http://www.github.com/zwartmit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zwartmit&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>  
 
-<a href="https://github.com/zwartmit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwartmit&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Lenguajes más usados" /></a>  
 </div>
