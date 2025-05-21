@@ -7,7 +7,7 @@ Entre otras cosas... también me apasiona:
 <br/>  
 🎧DJingㅤ🤖Modelado 3Dㅤ🎨Diseño gráficoㅤ🗄Viajarㅤ📚Leer  
 
-* 🌍  Vivo en Colombia  
+* 📍   Colombia  
 * ✉️  Puedes contactarme en [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
 * 🧠  Estoy en constante aprendizaje 
 
@@ -22,7 +22,7 @@ Among other things... I'm also passionate about:
 <br/>  
 🎧DJingㅤ🤖3D modelingㅤ🎨Graphic designㅤ🗄Travelㅤ📚Read  
 
-* 🌍  I'm based in Colombia  
+* 📍   Colombia
 * ✉️  You can contact me at [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
 * 🧠  I'm in continuous learning 
 
