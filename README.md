@@ -1,8 +1,5 @@
 ## ¡Hola! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif Animado">  
 <br/>
-<a target="_blank" align="center">  
-  <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
-</a>  
 
 Soy Brandon Alonso Urbano Zea, cuento con experiencia en desarrollo web, aplicaciones multiplataforma, gestión de proyectos tecnológicos, diseño gráfico y uso de inteligencia artificial. Apasionado por la resolución de problemas y la creación de soluciones eficientes, escalables y orientadas a resultados 
 
@@ -18,9 +15,6 @@ Entre otras cosas... también me apasiona:
 
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">  
 <br/>
-<a target="_blank" align="center">  
-  <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
-</a>  
 
 I'm Brandon Alonso Urbano Zea, I have experience in web development, multiplatform applications, technology project management, graphic design and use of artificial intelligence. Passionate about solving problems and creating efficient, scalable and results-oriented solutions.
 
