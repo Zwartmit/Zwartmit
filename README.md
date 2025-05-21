@@ -4,12 +4,7 @@
 Soy Brandon Alonso Urbano Zea, cuento con experiencia en desarrollo web, aplicaciones multiplataforma, gestión de proyectos tecnológicos, diseño gráfico y uso de inteligencia artificial. Apasionado por la resolución de problemas y la creación de soluciones eficientes, escalables y orientadas a resultados 
 
 Entre otras cosas... también me apasiona:  
-<br/>  
 🎧DJingㅤ🤖Modelado 3Dㅤ🎨Diseño gráficoㅤ🗄Viajarㅤ📚Leer  
-
-* 📍   Colombia  
-* ✉️  Puedes contactarme en [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
-* 🧠  Estoy en constante aprendizaje 
 
 -----------------
 
@@ -19,12 +14,7 @@ Entre otras cosas... también me apasiona:
 I'm Brandon Alonso Urbano Zea, I have experience in web development, multiplatform applications, technology project management, graphic design and use of artificial intelligence. Passionate about solving problems and creating efficient, scalable and results-oriented solutions.
 
 Among other things... I'm also passionate about:  
-<br/>  
 🎧DJingㅤ🤖3D modelingㅤ🎨Graphic designㅤ🗄Travelㅤ📚Read  
-
-* 📍   Colombia
-* ✉️  You can contact me at [brandonurbanobuz@gmail.com](mailto:brandonurbanobuz@gmail.com)  
-* 🧠  I'm in continuous learning 
 
 -----------------
 
