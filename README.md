@@ -4,7 +4,7 @@
   <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
 
-Soy Brandon, cuento con experiencia en desarrollo web, aplicaciones multiplataforma, gestión de proyectos tecnológicos, diseño gráfico y uso de inteligencia artificial. Apasionado por la resolución de problemas y la creación de soluciones eficientes, escalables y orientadas a resultados 
+Soy Brandon Alonso Urbano Zea, cuento con experiencia en desarrollo web, aplicaciones multiplataforma, gestión de proyectos tecnológicos, diseño gráfico y uso de inteligencia artificial. Apasionado por la resolución de problemas y la creación de soluciones eficientes, escalables y orientadas a resultados 
 
 Entre otras cosas... también me apasiona:  
 <br/>  
@@ -22,7 +22,7 @@ Entre otras cosas... también me apasiona:
   <img alt="GIF" height="200" width="200" align="right" src="https://i.pinimg.com/originals/6c/fd/4d/6cfd4daa9554935b8ca93ae947fe6d52.gif">  
 </a>  
 
-I'm Brandon, I have experience in web development, multiplatform applications, technology project management, graphic design and use of artificial intelligence. Passionate about solving problems and creating efficient, scalable and results-oriented solutions.
+I'm Brandon Alonso Urbano Zea, I have experience in web development, multiplatform applications, technology project management, graphic design and use of artificial intelligence. Passionate about solving problems and creating efficient, scalable and results-oriented solutions.
 
 Among other things... I'm also passionate about:  
 <br/>  
