@@ -25,19 +25,6 @@ Among other things... I'm also passionate about:
   </a>  
 </p>  
 
-## 📲 Mis redes / My networks:
-<p align="center">  
-  <a href="https://linkedin.com/in/brandonurbano-dev" target="_blank">  
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />  
-  </a>  
-  <a href="https://dev-mit.com" target="_blank">  
-    <img src="https://skillicons.dev/icons?i=htmx" alt="portafolio" />  
-  </a>  
-  <a href="https://instagram.com/zwart_mit" target="_blank">  
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />  
-  </a>  
-</p>  
-
 ## 📊 Mis estadísticas en GitHub / My GitHub Stats
 <div align='center'>  
 
