@@ -21,7 +21,7 @@ Among other things... I'm also passionate about:
 ## 📝 Lenguajes y Herramientas / Languages and Tools:
 <p align="center">  
   <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,django,mysql,postgres,vscode" />  
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,py,react,nodejs,npm,django,mysql,postgres,vscode,figma,github" />  
   </a>  
 </p>  
 
