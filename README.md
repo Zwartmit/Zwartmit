@@ -1,7 +1,7 @@
 ## ¡Hola! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif Animado">  
 <br/>
 
-Soy **Brandon Alonso Urbano Zea**, desarrollador enfocado en crear **soluciones digitales que resuelven problemas reales, optimizan procesos y mejoran la eficiencia** para empresas, organizaciones y profesionales independientes.
+Soy **Brandon Alonso Urbano Zea**, desarrollador enfocado en crear **soluciones digitales que resuelven problemas, optimizan procesos y mejoran la eficiencia** para empresas, organizaciones y profesionales independientes.
 
 He desarrollado **más de 15 proyectos** entre iniciativas personales y trabajos para clientes en **Colombia y el exterior**, construyendo plataformas **escalables, organizadas y mantenibles**.
 
@@ -17,7 +17,7 @@ Entre otras cosas... también me apasiona:
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">  
 <br/>
 
-I'm **Brandon Alonso Urbano Zea**, a developer focused on building **digital solutions that solve real problems, optimize processes and improve efficiency** for companies, organizations and independent professionals.
+I'm **Brandon Alonso Urbano Zea**, a developer focused on building **digital solutions that solve problems, optimize processes and improve efficiency** for companies, organizations and independent professionals.
 
 I have developed **15+ projects**, both personal and for clients in **Colombia and internationally**, building **scalable, well-structured and maintainable platforms**.
 
