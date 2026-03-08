@@ -3,9 +3,9 @@
 
 Soy **Brandon Alonso Urbano Zea**, desarrollador enfocado en crear **soluciones digitales que resuelven problemas reales, optimizan procesos y mejoran la eficiencia** para empresas, organizaciones y profesionales independientes.
 
-He desarrollado **más de 15 proyectos** entre iniciativas personales y trabajos para clientes en **Colombia y el exterior**, construyendo aplicaciones **escalables, organizadas y mantenibles**.
+He desarrollado **más de 15 proyectos** entre iniciativas personales y trabajos para clientes en **Colombia y el exterior**, construyendo plataformas **escalables, organizadas y mantenibles**.
 
-También integro **inteligencia artificial dentro de mis flujos de desarrollo**, utilizando modelos como **Gemini, GPT y Claude** en entornos profesionales como **Antigravity y Windsurf**, lo que me permite acelerar procesos, mejorar la calidad del código y mantener estándares técnicos consistentes.
+También integro inteligencia artificial dentro de mis flujos de desarrollo, utilizando modelos como **Gemini, GPT y Claude** en entornos profesionales como **Antigravity y Windsurf**, lo que me permite acelerar procesos, mejorar la calidad del código y mantener estándares técnicos consistentes.
 
 He compartido conocimiento en espacios educativos como **Platzi**, donde dicté una charla sobre el uso de la **IA como tutor personal**.
 
@@ -19,9 +19,9 @@ Entre otras cosas... también me apasiona:
 
 I'm **Brandon Alonso Urbano Zea**, a developer focused on building **digital solutions that solve real problems, optimize processes and improve efficiency** for companies, organizations and independent professionals.
 
-I have developed **15+ projects**, both personal and for clients in **Colombia and internationally**, building **scalable, well-structured and maintainable applications**.
+I have developed **15+ projects**, both personal and for clients in **Colombia and internationally**, building **scalable, well-structured and maintainable platforms**.
 
-I also integrate **artificial intelligence into my development workflow**, using models such as **Gemini, GPT and Claude** within professional environments like **Antigravity and Windsurf**, helping accelerate development and improve code quality.
+I also integrate artificial intelligence into my development workflow, using models such as **Gemini, GPT and Claude** within professional environments like **Antigravity and Windsurf**, helping accelerate development and improve code quality.
 
 I have also shared knowledge in educational spaces such as **Platzi**, where I gave a talk about **using AI as a personal tutor**.
 
